@@ -1,0 +1,12 @@
+{
+  "name": "petstore.swagger.io",
+  "description": "Service specification for petstore.swagger.io",
+  "main": "",
+  "licence": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksaaskil/petstore.swagger.io.git"
+  },
+  "version": "1.0.0"
+}
